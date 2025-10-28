@@ -1,1 +1,3 @@
-"# python-homework" 
+# python programming
+
+## นายอัครัช การรัมย์ รหัสนักศึกษา 6812732128
